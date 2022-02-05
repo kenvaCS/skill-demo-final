@@ -6,4 +6,4 @@ public class SkillDemoTester{
     public void testSubtract(){
         assertEquals(4, SkillDemo.subtract(9,5)); // should fix it.
     }
-}s
+}
